@@ -35,11 +35,11 @@ const MENU = [
   },
   {
     'title': 'Swap',
-    'link': 'https://raydium.io/swap/',
+    'link': '/swap',
   },
   {
     'title': 'Liquidity',
-    'link': 'https://raydium.io/liquidity/',
+    'link': '/liquidity',
   },
   {
     'title': 'Pools',
